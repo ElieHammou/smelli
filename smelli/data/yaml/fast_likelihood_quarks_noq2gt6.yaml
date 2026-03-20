@@ -1,4 +1,4 @@
-name: Fast Likelihood Quark Sector
+name: Fast Likelihood Quark Sector (q2<6)
 observables: !include_merge_list
   # b->sll
   - observables_bkstarmumu_atlas_p.yaml

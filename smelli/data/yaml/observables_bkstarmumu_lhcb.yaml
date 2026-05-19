@@ -1,3 +1,28 @@
+# LHCb B->K*mumu 2026 P (arXiv:2512.18053) 0.06-0.98 bin
+- name: <FL>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P1>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P2>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P3>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P4p>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P5p>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P6p>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
+- name: <P8p>(B0->K*mumu)
+  q2min: 0.06
+  q2max: 0.98
 - name: <FL>(B0->K*mumu)
   q2min: 0.1
   q2max: 0.98

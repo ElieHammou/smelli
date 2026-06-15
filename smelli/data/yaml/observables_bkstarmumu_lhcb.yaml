@@ -24,9 +24,6 @@
   q2min: 0.06
   q2max: 0.98
 - name: <FL>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
-- name: <FL>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
 - name: <FL>(B0->K*mumu)
@@ -42,9 +39,6 @@
   q2min: 17
   q2max: 19
 - name: <P1>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
-- name: <P1>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
 - name: <P1>(B0->K*mumu)
@@ -60,9 +54,6 @@
   q2min: 17
   q2max: 19
 - name: <P2>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
-- name: <P2>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
 - name: <P2>(B0->K*mumu)
@@ -77,9 +68,6 @@
 - name: <P2>(B0->K*mumu)
   q2min: 17
   q2max: 19
-- name: <P3>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
 - name: <P3>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
@@ -96,9 +84,6 @@
   q2min: 17
   q2max: 19
 - name: <P4p>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
-- name: <P4p>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
 - name: <P4p>(B0->K*mumu)
@@ -113,9 +98,6 @@
 - name: <P4p>(B0->K*mumu)
   q2min: 17
   q2max: 19
-- name: <P5p>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
 - name: <P5p>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
@@ -132,9 +114,6 @@
   q2min: 17
   q2max: 19
 - name: <P6p>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
-- name: <P6p>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
 - name: <P6p>(B0->K*mumu)
@@ -149,9 +128,6 @@
 - name: <P6p>(B0->K*mumu)
   q2min: 17
   q2max: 19
-- name: <P8p>(B0->K*mumu)
-  q2min: 0.1
-  q2max: 0.98
 - name: <P8p>(B0->K*mumu)
   q2min: 1.1
   q2max: 2.5
